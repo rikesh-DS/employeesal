@@ -1,1 +1,1 @@
-web: gunicorn app:salarypredicton
+web: gunicorn app:app
